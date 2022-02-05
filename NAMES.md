@@ -32,5 +32,5 @@
 [Adeoye Tobi](https://github.com/OluSure)
 [Olaoye Isaiah](https://github.com/kuhmasii)
 
-[David Oluwabusayo] (https://github.com/stont) [<img src="https://img.shields.io/badge/OSCA%20ADO%20EKITI-Hero-blue">](https://github.com/stont)
+
 
